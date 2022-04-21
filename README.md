@@ -29,6 +29,7 @@ This project uses the Gradle build system. To build this project, use the "gradl
 
 This app uses [CoinMarketCap API](https://coinmarketcap.com/api/) to retrieve Cryptocurrencies. You must provide your own API key in order to build the app. 
 To get the API Key you have you register on CoinMarketCap website.
+
 When you get the API Key you have to add you API Key in local.properties as given below:
 
     api_key = your api key
