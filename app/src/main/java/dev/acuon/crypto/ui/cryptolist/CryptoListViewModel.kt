@@ -18,4 +18,5 @@ class CryptoListViewModel(private val repository: CryptoListRepository) : BaseVi
         _cryptoList.value = response.value
         return response
     }
+
 }
